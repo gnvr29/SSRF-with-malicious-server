@@ -55,7 +55,7 @@ ngrok http 8000
 This will expose the server running on port 8000 to the internet. Your terminal should look like this:
 
 ```
-ngrok                                                                                                                                                                                               (Ctrl+C to quit)
+ngrok
                                                                                                                                                                                                                     
 🫶 Using ngrok for OSS? Request a community license: https://ngrok.com/r/oss                                                                                                                                        
                                                                                                                                                                                                                     
